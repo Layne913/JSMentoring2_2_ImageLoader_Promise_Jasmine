@@ -1,0 +1,11 @@
+{
+  "name": "image_loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ImageLoader.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC"
+}
